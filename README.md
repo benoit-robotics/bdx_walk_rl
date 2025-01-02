@@ -1,6 +1,6 @@
 # Isaac sim environment to train the BDX robot
 
-This repository contains the code to train the [BDX](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/) robot  to walk on a flat and rough terrain using Isaac Lab [Isaac Lab](https://github.com/isaac-sim/IsaacLab). The model of the robot was found on the [AWD](https://github.com/rimim/AWD) repository and the idea of this work comes from the [Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) repository. The robot is trained using the [RSL-RL](https://github.com/leggedrobotics/rsl_rl) implementation of RL algorithms.
+This repository contains the code to train the [BDX](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/) robot  to walk on flat or rough terrains using Isaac Lab [Isaac Lab](https://github.com/isaac-sim/IsaacLab). The model of the robot was found on the [AWD](https://github.com/rimim/AWD) repository and the idea of this work comes from the [Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) repository. The robot is trained using the [RSL-RL](https://github.com/leggedrobotics/rsl_rl) implementation of RL algorithms.
 This repository was created using the [IsaacLab template](https://github.com/isaac-sim/IsaacLabExtensionTemplate/tree/main).
 
 
