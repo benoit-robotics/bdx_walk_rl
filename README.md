@@ -5,8 +5,7 @@ This repository was created using the [IsaacLab template](https://github.com/isa
 
 
 
-https://github.com/user-attachments/assets/9964ef53-d2d5-4543-a69a-c69959b060f6
-
+https://github.com/user-attachments/assets/bb7887ef-2252-470d-8ace-fc5ef8cbae35
 
 ### Repository structure and important files
 
